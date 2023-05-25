@@ -1,0 +1,195 @@
+name,iso_2,iso_3,continent,region,dialing_code,currency
+Afghanistan,AF,AFG,Asia,Southern and Central Asia,93,AFN
+Albania,AL,ALB,Europe,Southern Europe,355,ALL
+Algeria,DZ,DZA,Africa,Northern Africa,213,DZD
+Andorra,AD,AND,Europe,Southern Europe,376,EUR
+Angola,AO,AGO,Africa,Central Africa,244,AOA
+Antigua and Barbuda,AG,ATG,Americas,Caribbean,1268,XCD
+Argentina,AR,ARG,Americas,South America,54,ARS
+Armenia,AM,ARM,Asia,Middle East,374,AMD
+Australia,AU,AUS,Oceania,Australia and New Zealand,61,AUD
+Austria,AT,AUT,Europe,Western Europe,43,EUR
+Azerbaijan,AZ,AZE,Asia,Middle East,994,AZN
+Bahamas,BS,BHS,Americas,Caribbean,1242,BSD
+Bahrain,BH,BHR,Asia,Middle East,973,BHD
+Bangladesh,BD,BGD,Asia,Southern and Central Asia,880,BDT
+Barbados,BB,BRB,Americas,Caribbean,1246,BBD
+Belarus,BY,BLR,Europe,Eastern Europe,375,BYR
+Belgium,BE,BEL,Europe,Western Europe,32,EUR
+Belize,BZ,BLZ,Americas,Central America,501,BZD
+Benin,BJ,BEN,Africa,Western Africa,229,XOF
+Bhutan,BT,BTN,Asia,Southern and Central Asia,975,BTN
+Bolivia,BO,BOL,Americas,South America,591,BOB
+Bosnia and Herzegovina,BA,BIH,Europe,Southern Europe,387,BAM
+Botswana,BW,BWA,Africa,Southern Africa,267,BWP
+Brazil,BR,BRA,Americas,South America,55,BRL
+Brunei,BN,BRN,Asia,Southeast Asia,673,BND
+Bulgaria,BG,BGR,Europe,Eastern Europe,359,BGN
+Burkina Faso,BF,BFA,Africa,Western Africa,226,XOF
+Burundi,BI,BDI,Africa,Eastern Africa,257,BIF
+Cape Verde,CV,CPV,Africa,Western Africa,238,CVE
+Cambodia,KH,KHM,Asia,Southeast Asia,855,KHR
+Cameroon,CM,CMR,Africa,Central Africa,237,XAF
+Canada,CA,CAN,Americas,North America,1,CAD
+Central African Republic,CF,CAF,Africa,Central Africa,236,XAF
+Chad,TD,TCD,Africa,Central Africa,235,XAF
+Chile,CL,CHL,Americas,South America,56,CLP
+China,CN,CHN,Asia,Eastern Asia,86,CNY
+Colombia,CO,COL,Americas,South America,57,COP
+Comoros,KM,COM,Africa,Eastern Africa,269,KMF
+Congo,CG,COG,Africa,Central Africa,242,XAF
+Costa Rica,CR,CRI,Americas,Central America,506,CRC
+Croatia,HR,HRV,Europe,Southern Europe,385,HRK
+Cuba,CU,CUB,Americas,Caribbean,53,CUP
+Cyprus,CY,CYP,Asia,Middle East,357,EUR
+Czech Republic,CZ,CZE,Europe,Eastern Europe,420,CZK
+Democratic Republic Congo,CD,COD,Africa,Central Africa,243,CDF
+Denmark,DK,DNK,Europe,Nordic Countries,45,DKK
+Djibouti,DJ,DJI,Africa,Eastern Africa,253,DJF
+Dominica,DM,DMA,Americas,Caribbean,1767,XCD
+Dominican Republic,DO,DOM,Americas,Caribbean,1809,DOP
+East Timor,TL,TLS,Asia,Southeast Asia,670,USD
+Ecuador,EC,ECU,Americas,South America,593,USD
+Egypt,EG,EGY,Africa,Northern Africa,20,EGP
+El Salvador,SV,SLV,Americas,Central America,503,USD
+Equatorial Guinea,GQ,GNQ,Africa,Central Africa,240,XAF
+Eritrea,ER,ERI,Africa,Eastern Africa,291,ERN
+Estonia,EE,EST,Europe,Baltic Countries,372,EUR
+Eswatini,SZ,SWZ,Africa,Southern Africa,268,SZL
+Ethiopia,ET,ETH,Africa,Eastern Africa,251,ETB
+Fiji,FJ,FJI,Oceania,Melanesia,679,FJD
+Finland,FI,FIN,Europe,Nordic Countries,358,EUR
+France,FR,FRA,Europe,Western Europe,33,EUR
+Gabon,GA,GAB,Africa,Central Africa,241,XAF
+Gambia,GM,GMB,Africa,Western Africa,220,GMD
+Georgia,GE,GEO,Asia,Middle East,995,GEL
+Germany,DE,DEU,Europe,Western Europe,49,EUR
+Ghana,GH,GHA,Africa,Western Africa,233,GHS
+Greece,GR,GRC,Europe,Southern Europe,30,EUR
+Grenada,GD,GRD,Americas,Caribbean,1473,XCD
+Guatemala,GT,GTM,Americas,Central America,502,GTQ
+Guinea,GN,GIN,Africa,Western Africa,224,GNF
+Guinea-Bissau,GW,GNB,Africa,Western Africa,245,XOF
+Guyana,GY,GUY,Americas,South America,592,GYD
+Haiti,HT,HTI,Americas,Caribbean,509,HTG
+Honduras,HN,HND,Americas,Central America,504,HNL
+Hungary,HU,HUN,Europe,Eastern Europe,36,HUF
+Iceland,IS,ISL,Europe,Nordic Countries,354,ISK
+India,IN,IND,Asia,Southern and Central Asia,91,INR
+Indonesia,ID,IDN,Asia,Southeast Asia,62,IDR
+Iran,IR,IRN,Asia,Southern and Central Asia,98,IRR
+Iraq,IQ,IRQ,Asia,Middle East,964,IQD
+Ireland,IE,IRL,Europe,British Islands,353,EUR
+Israel,IL,ISR,Asia,Middle East,972,ILS
+Italy,IT,ITA,Europe,Southern Europe,39,EUR
+Ivory Coast,CI,CIV,Africa,Western Africa,225,XOF
+Jamaica,JM,JAM,Americas,Caribbean,1876,JMD
+Japan,JP,JPN,Asia,Eastern Asia,81,JPY
+Jordan,JO,JOR,Asia,Middle East,962,JOD
+Kazakhstan,KZ,KAZ,Asia,Southern and Central Asia,7,KZT
+Kenya,KE,KEN,Africa,Eastern Africa,254,KES
+Kiribati,KI,KIR,Oceania,Micronesia,686,AUD
+Kuwait,KW,KWT,Asia,Middle East,965,KWD
+Kyrgyzstan,KG,KGZ,Asia,Southern and Central Asia,996,KGS
+Laos,LA,LAO,Asia,Southeast Asia,856,LAK
+Latvia,LV,LVA,Europe,Baltic Countries,371,EUR
+Lebanon,LB,LBN,Asia,Middle East,961,LBP
+Lesotho,LS,LSO,Africa,Southern Africa,266,LSL
+Liberia,LR,LBR,Africa,Western Africa,231,LRD
+Libya,LY,LBY,Africa,Northern Africa,218,LYD
+Liechtenstein,LI,LIE,Europe,Western Europe,423,CHF
+Lithuania,LT,LTU,Europe,Baltic Countries,370,EUR
+Luxembourg,LU,LUX,Europe,Western Europe,352,EUR
+Madagascar,MG,MDG,Africa,Eastern Africa,261,MGA
+Malawi,MW,MWI,Africa,Eastern Africa,265,MWK
+Malaysia,MY,MYS,Asia,Southeast Asia,60,MYR
+Maldives,MV,MDV,Asia,Southern and Central Asia,960,MVR
+Mali,ML,MLI,Africa,Western Africa,223,XOF
+Malta,MT,MLT,Europe,Southern Europe,356,EUR
+Marshall Islands,MH,MHL,Oceania,Micronesia,692,USD
+Mauritania,MR,MRT,Africa,Western Africa,222,MRU
+Mauritius,MU,MUS,Africa,Eastern Africa,230,MUR
+Mexico,MX,MEX,Americas,Central America,52,MXN
+Micronesia,FM,FSM,Oceania,Micronesia,691,USD
+Moldova,MD,MDA,Europe,Eastern Europe,373,MDL
+Monaco,MC,MCO,Europe,Western Europe,377,EUR
+Mongolia,MN,MNG,Asia,Eastern Asia,976,MNT
+Montenegro,ME,MNE,Europe,Southern Europe,382,EUR
+Morocco,MA,MAR,Africa,Northern Africa,212,MAD
+Mozambique,MZ,MOZ,Africa,Eastern Africa,258,MZN
+Myanmar,MM,MMR,Asia,Southeast Asia,95,MMK
+Namibia,NA,NAM,Africa,Southern Africa,264,NAD
+Nauru,NR,NRU,Oceania,Micronesia,674,AUD
+Nepal,NP,NPL,Asia,Southern and Central Asia,977,NPR
+Netherlands,NL,NLD,Europe,Western Europe,31,EUR
+New Zealand,NZ,NZL,Oceania,Australia and New Zealand,64,NZD
+Nicaragua,NI,NIC,Americas,Central America,505,NIO
+Niger,NE,NER,Africa,Western Africa,227,XOF
+Nigeria,NG,NGA,Africa,Western Africa,234,NGN
+North Korea,KP,PRK,Asia,Eastern Asia,850,KPW
+North Macedonia,MK,MKD,Europe,Southern Europe,389,MKD
+Norway,NO,NOR,Europe,Nordic Countries,47,NOK
+Oman,OM,OMN,Asia,Middle East,968,OMR
+Pakistan,PK,PAK,Asia,Southern and Central Asia,92,PKR
+Palau,PW,PLW,Oceania,Micronesia,680,USD
+Panama,PA,PAN,Americas,Central America,507,USD
+Papua New Guinea,PG,PNG,Oceania,Melanesia,675,PGK
+Paraguay,PY,PRY,Americas,South America,595,PYG
+Peru,PE,PER,Americas,South America,51,PEN
+Philippines,PH,PHL,Asia,Southeast Asia,63,PHP
+Poland,PL,POL,Europe,Eastern Europe,48,PLN
+Portugal,PT,PRT,Europe,Southern Europe,351,EUR
+Qatar,QA,QAT,Asia,Middle East,974,QAR
+Romania,RO,ROU,Europe,Central Europe,40,RON
+Russia,RU,RUS,Europe,Eastern Europe,7,RUB
+Rwanda,RW,RWA,Africa,Eastern Africa,250,RWF
+Saint Kitts and Nevis,KN,KNA,Americas,Caribbean,1869,XCD
+Saint Lucia,LC,LCA,Americas,Caribbean,1758,XCD
+Saint Vincent and the Grenadines,VC,VCT,Americas,Caribbean,1784,XCD
+Samoa,WS,WSM,Oceania,Polynesia,685,WST
+San Marino,SM,SMR,Europe,Southern Europe,378,EUR
+Sao Tome and Principe,ST,STP,Africa,Central Africa,239,STD
+Saudi Arabia,SA,SAU,Asia,Middle East,966,SAR
+Senegal,SN,SEN,Africa,Western Africa,221,XOF
+Serbia,RS,SRB,Europe,Southern Europe,381,RSD
+Seychelles,SC,SYC,Africa,Eastern Africa,248,SCR
+Sierra Leone,SL,SLE,Africa,Western Africa,232,SLL
+Singapore,SG,SGP,Asia,Southeast Asia,65,SGD
+Slovakia,SK,SVK,Europe,Eastern Europe,421,EUR
+Slovenia,SI,SVN,Europe,Southern Europe,386,EUR
+Solomon Islands,SB,SLB,Oceania,Melanesia,677,SBD
+Somalia,SO,SOM,Africa,Eastern Africa,252,SOS
+South Africa,ZA,ZAF,Africa,Southern Africa,27,ZAR
+South Korea,KR,KOR,Asia,Eastern Asia,82,KRW
+South Sudan,SS,SSD,Africa,Northern Africa,211,SSP
+Spain,ES,ESP,Europe,Southern Europe,34,EUR
+Sri Lanka,LK,LKA,Asia,Southern and Central Asia,94,LKR
+Sudan,SD,SDN,Africa,Northern Africa,249,SDG
+Suriname,SR,SUR,Americas,South America,597,SRD
+Sweden,SE,SWE,Europe,Nordic Countries,46,SEK
+Switzerland,CH,CHE,Europe,Western Europe,41,CHF
+Syria,SY,SYR,Asia,Middle East,963,SYP
+Tajikistan,TJ,TJK,Asia,Southern and Central Asia,992,TJS
+Tanzania,TZ,TZA,Africa,Eastern Africa,255,TZS
+Thailand,TH,THA,Asia,Southeast Asia,66,THB
+Togo,TG,TGO,Africa,Western Africa,228,XOF
+Tonga,TO,TON,Oceania,Polynesia,676,TOP
+Trinidad and Tobago,TT,TTO,Americas,Caribbean,1868,TTD
+Tunisia,TN,TUN,Africa,Northern Africa,216,TND
+Turkey,TR,TUR,Asia,Middle East,90,TRY
+Turkmenistan,TM,TKM,Asia,Southern and Central Asia,993,TMT
+Tuvalu,TV,TUV,Oceania,Polynesia,688,AUD
+Uganda,UG,UGA,Africa,Eastern Africa,256,UGX
+Ukraine,UA,UKR,Europe,Eastern Europe,380,UAH
+United Arab Emirates,AE,ARE,Asia,Middle East,971,AED
+United Kingdom,GB,GBR,Europe,British Islands,44,GBP
+United States of America,US,USA,Americas,North America,1,USD
+Uruguay,UY,URY,Americas,South America,598,UYU
+Uzbekistan,UZ,UZB,Asia,Southern and Central Asia,998,UZS
+Vanuatu,VU,VUT,Oceania,Melanesia,678,VUV
+Vatican City,VA,VAT,Europe,Southern Europe,379,EUR
+Venezuela,VE,VEN,Americas,South America,58,VES
+Vietnam,VN,VNM,Asia,Southeast Asia,84,VND
+Yemen,YE,YEM,Asia,Middle East,967,YER
+Zambia,ZM,ZMB,Africa,Eastern Africa,260,ZMW
+Zimbabwe,ZW,ZWE,Africa,Eastern Africa,263,USD
